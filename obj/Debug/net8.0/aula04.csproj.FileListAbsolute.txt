@@ -1,0 +1,14 @@
+C:\Users\suele\OneDrive\Área de Trabalho\Laboratório de Programação\aula04\aula04\bin\Debug\net8.0\aula04.exe
+C:\Users\suele\OneDrive\Área de Trabalho\Laboratório de Programação\aula04\aula04\bin\Debug\net8.0\aula04.deps.json
+C:\Users\suele\OneDrive\Área de Trabalho\Laboratório de Programação\aula04\aula04\bin\Debug\net8.0\aula04.runtimeconfig.json
+C:\Users\suele\OneDrive\Área de Trabalho\Laboratório de Programação\aula04\aula04\bin\Debug\net8.0\aula04.dll
+C:\Users\suele\OneDrive\Área de Trabalho\Laboratório de Programação\aula04\aula04\bin\Debug\net8.0\aula04.pdb
+C:\Users\suele\OneDrive\Área de Trabalho\Laboratório de Programação\aula04\aula04\obj\Debug\net8.0\aula04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suele\OneDrive\Área de Trabalho\Laboratório de Programação\aula04\aula04\obj\Debug\net8.0\aula04.AssemblyInfoInputs.cache
+C:\Users\suele\OneDrive\Área de Trabalho\Laboratório de Programação\aula04\aula04\obj\Debug\net8.0\aula04.AssemblyInfo.cs
+C:\Users\suele\OneDrive\Área de Trabalho\Laboratório de Programação\aula04\aula04\obj\Debug\net8.0\aula04.csproj.CoreCompileInputs.cache
+C:\Users\suele\OneDrive\Área de Trabalho\Laboratório de Programação\aula04\aula04\obj\Debug\net8.0\aula04.dll
+C:\Users\suele\OneDrive\Área de Trabalho\Laboratório de Programação\aula04\aula04\obj\Debug\net8.0\refint\aula04.dll
+C:\Users\suele\OneDrive\Área de Trabalho\Laboratório de Programação\aula04\aula04\obj\Debug\net8.0\aula04.pdb
+C:\Users\suele\OneDrive\Área de Trabalho\Laboratório de Programação\aula04\aula04\obj\Debug\net8.0\aula04.genruntimeconfig.cache
+C:\Users\suele\OneDrive\Área de Trabalho\Laboratório de Programação\aula04\aula04\obj\Debug\net8.0\ref\aula04.dll
